@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full stack web developer with expertise in front-end development</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vector17002&label=Profile%20views&color=0e75b6&style=flat" alt="vector17002" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vector17002" alt="vector17002" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vector17002&theme=onedark" alt="vector17002" /></a> </p>
 
 - 🔭 I’m currently working on **Resume 2.0**
 
