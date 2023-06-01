@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently preparing for oncampus-placement
 
-- 🌱 I’m currently learning **NextJS , ThreeJS**
+- 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **MERN**
 
