@@ -45,9 +45,9 @@
           <br />
           <!-- second row -->
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=angular%2Cbootstrap%2Cmongodb%2Chtml%2Credux%2Clinux%2Cvscode%2Cnetlify%2Cfigma&theme=dark" />
-            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=angular%2Cbootstrap%2Cmongodb%2Chtml%2Credux%2Clinux%2Cvscode%2Cnetlify%2Cfigma&theme=light" />
-            <img src="https://skillicons.dev/icons?i=angular%2Cbootstrap%2Cmongodb%2Chtml%2Credux%2Clinux%2Cvscode%2Cnetlify%2Cfigma&theme=light" alt="skills - 2" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bootstrap%2Cmongodb%2Credux%2Clinux%2Cvscode%2Cnetlify%2Cvercel%2Cnvim%2Cvim&theme=dark" />
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=bootstrap%2Cmongodb%2Credux%2Clinux%2Cvscode%2Cnetlify%2Cvercel%2Cnvim%2Cvim&theme=light" />
+            <img src="https://skillicons.dev/icons?i=bootstrap%2Cmongodb%2Credux%2Clinux%2Cvscode%2Cnetlify%2Cvercel%2Cnvim%2Cvim&theme=light" alt="skills - 2" />
         </picture>
 
   </a>
