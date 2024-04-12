@@ -45,9 +45,9 @@
           <br />
           <!-- second row -->
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bootstrap%2Cmongodb%2Credux%2Clinux%2Cvscode%2Cnetlify%2Cvercel%2Cnvim%2Cvim&theme=dark" />
-            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=bootstrap%2Cmongodb%2Credux%2Clinux%2Cvscode%2Cnetlify%2Cvercel%2Cnvim%2Cvim&theme=light" />
-            <img src="https://skillicons.dev/icons?i=bootstrap%2Cmongodb%2Credux%2Clinux%2Cvscode%2Cnetlify%2Cvercel%2Cnvim%2Cvim&theme=light" alt="skills - 2" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bootstrap%2Cmongodb%2Credux%2Clinux%2Cvscode%2Cnetlify%2Cvercel%2Cpostman%2Cvim&theme=dark" />
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=bootstrap%2Cmongodb%2Credux%2Clinux%2Cvscode%2Cnetlify%2Cvercel%2Cpostman%2Cvim&theme=light" />
+            <img src="https://skillicons.dev/icons?i=bootstrap%2Cmongodb%2Credux%2Clinux%2Cvscode%2Cnetlify%2Cvercel%2Cpostman%2Cvim&theme=light" alt="skills - 2" />
         </picture>
 
   </a>
@@ -58,7 +58,7 @@
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vector17002/vector17002/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="2Cpostman" />
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/vector17002/vector17002/blob/output/github-contribution-grid-snake.svg" />
     <img src="https://github.com/vector17002/vector17002/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
   </picture>
