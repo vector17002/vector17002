@@ -22,6 +22,8 @@
 
 <!-- social handles -->
 <div align="center"> 
+  <!-- discord -->
+  <a href="https://discord.gg/Auj27uRv"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <!-- twitter -->
   <a href="https://twitter.com/ansh_kumain" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
   <!-- gmail -->
