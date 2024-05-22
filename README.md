@@ -40,9 +40,9 @@
   <a href="https://skillicons.dev">
       <!-- first row -->
       <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cjavascript%2Ccss%2Cexpress%2Ctailwind%2Cstyledcomponents%2Cnextjs%2Chtml%2Ctypescript%2Cshadcn&theme=dark" />
-<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cjavascript%2Ccss%2Cexpress%2Ctailwind%2Cnextjs%2Chtml%2Ctypescript%2Cshadcn&theme=light" />
-          <img src="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cjavascript%2Ccss%2Cexpress%2Ctailwind%2Cnextjs%2Chtml%2Ctypescript%2Cshadcn&theme=light" alt="skills - 1" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cjavascript%2Ccss%2Cexpress%2Ctailwind%2Cstyledcomponents%2Cnextjs%2Chtml%2Ctypescript%2Cshadcn%2Credis&theme=dark" />
+<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cjavascript%2Ccss%2Cexpress%2Ctailwind%2Cnextjs%2Chtml%2Ctypescript%2Cshadcn%2Credis&theme=light" />
+          <img src="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cjavascript%2Ccss%2Cexpress%2Ctailwind%2Cnextjs%2Chtml%2Ctypescript%2Cshadcn%2Credis&theme=light" alt="skills - 1" />
         </picture>
           <br />
           <!-- second row -->
