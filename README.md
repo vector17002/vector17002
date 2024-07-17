@@ -95,17 +95,6 @@
   <br />
   <br />
   <br />
-  <!-- contribution graph -->
-  <a href="https://github.com/vector17002/github-readme-activity-graph" title="Go to Source">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vector17002&theme=react-dark" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vector17002&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vector17002&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="
-        Ansh's contribution graph" />
-    </picture>
-  </a>
-</p>
-
 <hr />
 
 <!-- repositories -->
