@@ -119,12 +119,7 @@
     </picture>
 </a>
 </div>
-<br/><br/><br/><br/><br/><br/>
-
-<!-- spaces -->
-
-<br /><br /><br /><br /><br /><br />
-
+<br/><br/><br/>
 <!-- show more repos -->
 <h4 align="center">
   <a href="https://github.com/vector17002?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
