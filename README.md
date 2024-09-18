@@ -47,9 +47,9 @@
           <br />
           <!-- second row -->
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bootstrap%2Cmongodb%2Credux%2Clinux%2Cvscode%2Cnetlify%2Cvercel%2Cpostman%2Cvim%2Cgo&theme=dark" />
-            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=bootstrap%2Cmongodb%2Credux%2Clinux%2Cvscode%2Cnetlify%2Cvercel%2Cpostman%2Cvim%2Cgo&theme=light" />
-            <img src="https://skillicons.dev/icons?i=bootstrap%2Cmongodb%2Credux%2Clinux%2Cvscode%2Cnetlify%2Cvercel%2Cpostman%2Cvim%2Cgo&theme=light" alt="skills - 2" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bootstrap%2Cmongodb%2Clinux%2Cvscode%2Cnetlify%2Cvercel%2Cpostman%2Cvim%2Cgo&theme=dark" />
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=bootstrap%2Cdrizzle%2Cmongodb%2Credux%2Clinux%2Cvscode%2Cnetlify%2Cvercel%2Cpostman%2Cvim%2Cgo&theme=light" />
+            <img src="https://skillicons.dev/icons?i=bootstrap%2Cdrizzle%2Cmongodb%2Clinux%2Cvscode%2Cnetlify%2Cvercel%2Cpostman%2Cvim%2Cgo&theme=light" alt="skills - 2" />
         </picture>
 
   </a>
