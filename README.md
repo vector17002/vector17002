@@ -96,31 +96,7 @@
   <br />
   <br />
 <hr />
-
-<!-- repositories -->
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br />
-<!-- first row -->
-<div width="100%" align="center">
-<!-- repo 1 -->
-  <a align="right" href="https://github.com/vector17002/animbuketsu" title="Anime bucket">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vector17002&repo=animbuketsu&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vector17002&repo=animbuketsu&theme=graywhite&border_radius=10" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vector17002&repo=animbuketsu&theme=graywhite&border_radius=10" alt="Ansh's repository stats - Anime bucket" />
-    </picture>
-  </a>
-<!-- repo 2 -->
-  <a align="left" href="https://github.com/vector17002/slackcord" title="Chat Application">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vector17002&repo=slackcord&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vector17002&repo=slackcord&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vector17002&repo=slackcord&theme=graywhite&border_radius=10" alt="Ansh's repository stats - Chat app" />
-    </picture>
-</a>
-</div>
-<br/><br/><br/><br/><br/><br/>
 <!-- show more repos -->
 <h4 align="center">
-  <a href="https://github.com/vector17002?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/vector17002?tab=repositories" title="Show Repositories">Repositories</a>
 </h4>
