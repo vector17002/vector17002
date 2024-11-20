@@ -14,7 +14,7 @@
   Hi, I'm Ansh Kumain, MERN stack developer (NEXT) 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳.
   <br />
   <br />
-  🎓 Currently a fresher graduate from BTech IT and learning GoLang.
+  🎓 Currently a fresher graduate from BTech IT and going to join TCS as System Engineer.
   <br />
   💻 I love to learn new technologies and frameworks.
   <br />
