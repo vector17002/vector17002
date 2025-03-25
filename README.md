@@ -11,9 +11,6 @@
 <br />
 <!-- about me -->
 <p align="center">
-  Hi, I'm Ansh Kumain, MERN stack developer (NEXT) 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳.
-  <br />
-  <br />
   System engineer at TCS
   <br />
   💻 I love to learn new technologies and frameworks.
