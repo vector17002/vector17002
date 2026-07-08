@@ -49,8 +49,3 @@
 
   </a>
 </p>
-<hr />
-<!-- show more repos -->
-<h4 align="center">
-  <a href="https://github.com/vector17002?tab=repositories" title="Show Repositories">Repositories</a>
-</h4>
