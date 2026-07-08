@@ -27,7 +27,6 @@
   <a href="https://www.linkedin.com/in/ansh-kumain/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<hr />
 <!-- skills -->
 <h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
 <br />
