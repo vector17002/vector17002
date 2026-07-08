@@ -13,9 +13,6 @@
 <!-- about me -->
 <p align="center">
   System engineer at TCS
-  <br />
-  💻 I love to learn new technologies and frameworks.
-  <br />
 </p>
 
 <!-- social handles -->
